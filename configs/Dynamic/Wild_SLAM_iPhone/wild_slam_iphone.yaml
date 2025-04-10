@@ -3,7 +3,7 @@ inherit_from: ./configs/wildgs_slam.yaml
 dataset: 'wild_slam_iphone'
 
 data:
-  root_folder: /home/jianhaozheng/Gaussian_in_the_Wild/data/wild-slam/iphone
+  root_folder: ./datasets/Wild_SLAM_iPhone
   output: ./output/Wild_SLAM_iPhone
   
 cam:
